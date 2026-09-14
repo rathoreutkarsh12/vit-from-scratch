@@ -1,0 +1,8 @@
+data/
+cifar-10-batches-py/
+*.pth
+*.png
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.DS_Store
